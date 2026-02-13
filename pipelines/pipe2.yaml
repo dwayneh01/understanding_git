@@ -1,0 +1,8 @@
+hello: mykey
+more:
+ - testing
+ - more
+ - somethingelse
+pool: VM-Ubuntu
+demands:
+ - Agent.Name -equals VM1
