@@ -2,6 +2,7 @@ hello: mykey
 more:
  - testing
  - more
+ - extra
  - somethingelse
 pool: VM-Ubuntu
 demands:

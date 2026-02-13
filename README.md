@@ -10,3 +10,9 @@ git reset
 
 
 git revert
+
+git cherry pick 
+
+git fast track 
+
+git flatten 
